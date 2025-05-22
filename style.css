@@ -1,0 +1,16 @@
+.logotipo{
+    height: 300px;
+}
+main{
+   background-color: rgb(255, 255, 255);  
+  height: 700px;
+  color: darkgray;
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    height: 700px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    height: 700px;
+}
